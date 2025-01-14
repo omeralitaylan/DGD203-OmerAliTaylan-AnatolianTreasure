@@ -1,0 +1,14 @@
+Lost Cove
+0,0
+A mysterious cove where waves crash against the rocks. The remnants of a once-proud sailing vessel lie scattered across the shore. Cave entrances open into darkness.
+compass
+-
+Forgotten Harbor
+0,1
+A fishing village frozen in time. Wooden huts draped in moss and vines lean in the breeze. A weathered sign creaks rhythmically.
+ancient_map
+-
+Volcanic Peak
+1,1
+An active volcano rising in the center of the island. There are hot steam vents and rocks covered with bright crystals. An ancient altar is visible at the summit.
+magical_stone_fragment
